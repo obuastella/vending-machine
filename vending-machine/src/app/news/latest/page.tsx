@@ -1,3 +1,3 @@
 export default function page() {
-  return <div>Latest News here</div>;
+  return <div>Latest News here!</div>;
 }
